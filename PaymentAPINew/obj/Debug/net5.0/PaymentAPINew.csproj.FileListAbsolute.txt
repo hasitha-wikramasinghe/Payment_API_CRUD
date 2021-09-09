@@ -1,0 +1,270 @@
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\appsettings.Development.json
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\appsettings.json
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.exe
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.deps.json
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.runtimeconfig.json
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.runtimeconfig.dev.json
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ref\PaymentAPINew.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.pdb
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Humanizer.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.csprojAssemblyReference.cache
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.AssemblyInfoInputs.cache
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.AssemblyInfo.cs
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.csproj.CoreCompileInputs.cache
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.MvcApplicationPartsAssemblyInfo.cs
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.MvcApplicationPartsAssemblyInfo.cache
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\staticwebassets\PaymentAPINew.StaticWebAssets.Manifest.cache
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\staticwebassets\PaymentAPINew.StaticWebAssets.xml
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\scopedcss\bundle\PaymentAPINew.styles.css
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.RazorTargetAssemblyInfo.cache
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.csproj.CopyComplete
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\ref\PaymentAPINew.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.pdb
+E:\Asp.net\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.genruntimeconfig.cache
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Asp.net\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\appsettings.Development.json
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\appsettings.json
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.exe
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.deps.json
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.runtimeconfig.json
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.runtimeconfig.dev.json
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ref\PaymentAPINew.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\PaymentAPINew.pdb
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Humanizer.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.csprojAssemblyReference.cache
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.AssemblyInfoInputs.cache
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.AssemblyInfo.cs
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.csproj.CoreCompileInputs.cache
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.MvcApplicationPartsAssemblyInfo.cs
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.MvcApplicationPartsAssemblyInfo.cache
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\staticwebassets\PaymentAPINew.StaticWebAssets.Manifest.cache
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\staticwebassets\PaymentAPINew.StaticWebAssets.xml
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\scopedcss\bundle\PaymentAPINew.styles.css
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.RazorTargetAssemblyInfo.cache
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.csproj.CopyComplete
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\ref\PaymentAPINew.dll
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.pdb
+E:\Asp.net core projects\PaymentAPINew\PaymentAPINew\obj\Debug\net5.0\PaymentAPINew.genruntimeconfig.cache
